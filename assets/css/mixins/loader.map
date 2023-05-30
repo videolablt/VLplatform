@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "loader.css",
+	"sources": [
+		"../../sass/mixins/loader.scss"
+	],
+	"sourcesContent": [
+		"/* @include loader_style; */\r\n@mixin loader_style\r\n{\r\n\t#woob2b_loader{\r\n\t\t\tposition:fixed;\r\n\t\t\tdisplay:block;\r\n\t\t\twidth:100%;\r\n\t\t\theight:100%;\r\n\t\t\ttop:0;\r\n\t\t\tleft:0;\r\n\t\t\tz-index:1000;\r\n\t\t\tbackground:#fff url(../img/spinners/spinner.gif) center center no-repeat;\r\n\t\t\tbackground-size:150px auto;\r\n\t\t\topacity:0.80;\r\n\t}\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,4BAA4B"
+}

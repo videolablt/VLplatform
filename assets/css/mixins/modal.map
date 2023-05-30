@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "modal.css",
+	"sources": [
+		"../../sass/mixins/modal.scss"
+	],
+	"sourcesContent": [
+		"/* @include modal_style; */\r\n@mixin modal_style\r\n{\r\n\t#woob2b_modal{\r\n\t\tposition:fixed;\r\n\t\twidth:100%;\r\n\t\theight:100%;\r\n\t\ttop:0;\r\n\t\tleft:0;\r\n\t\tz-index:1000;\r\n\t\tbackground:rgba(255,255,255,0.7);\r\n\t\t.close-button{\r\n\t\t\tposition:absolute;\r\n\t\t\ttop:5px;\r\n\t\t\tright:5px;\r\n\t\t\tdisplay:block;\r\n\t\t\twidth:35px;\r\n\t\t\theight:35px;\r\n\t\t\tcursor:pointer;\r\n\t\t\tsvg{\r\n\t\t\t\tfill:black;\r\n\t\t\t}\r\n\t\t}\r\n\t\t.inner{\r\n\t\t\tposition:relative;\r\n\t\t\twidth:80%;\r\n\t\t\tmax-width:400px;\r\n\t\t\tmin-height:200px;\r\n\t\t\tmargin: 30vh auto;\r\n\t\t\tbackground:rgba(255,255,255,1);\r\n\t\t\t@include box_shadow(1px,2px,3px,#999);\r\n\t\t\ttext-align:center;\r\n\t\t\tpadding:40px;\r\n\t\t\t.h3{\r\n\t\t\t\tfont-size:27px;\r\n\t\t\t\tline-height:34px;\r\n\t\t\t}\r\n\t\t\tp{\r\n\t\t\t\tdisplay:block;\r\n\t\t\t\twidth:100%;\r\n\t\t\t\tmargin:15px 0 30px 0;\r\n\t\t\t\tfont-size:17px;\r\n\t\t\t\tline-height:22px;\r\n\t\t\t\ttext-align:center;\r\n\t\t\t}\r\n\t\t\t.buttonh{\r\n\t\t\t\tposition:relative;\r\n\t\t\t\tdisplay:block;\r\n\t\t\t\tclear:both;\r\n\t\t\t\twidth:100%;\r\n\t\t\t\tmin-height:25px;\r\n\t\t\t\tmargin-top:25px;\r\n\t\t\t\tmargin-bottom:25px;\r\n\t\t\t\t&.multi{\r\n\t\t\t\t\t.btn{\r\n\t\t\t\t\t\t&:nth-child(1){\r\n\t\t\t\t\t\t\tmargin-right:6px;\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t}\r\n\r\n\t\t\t\t}\r\n\r\n\t\t\t}\r\n\t\t}\r\n\r\n\t}\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,2BAA2B"
+}

@@ -1,0 +1,44 @@
+/*---------------------------------------------- photoswipe -------------------------*/
+.pswp{
+	z-index:3010 !important;
+}
+
+.pswp__button--arrow--right,.pswp__button--arrow--left{
+
+	@include transitions(0.3s);
+	background-color:rgba(200,200,200,0.05);
+	width:60px !important;
+	height:60px !important;
+
+	&:before{
+		@include transitions(0.3s);
+		top:14px !important;
+		width:30px !important;
+		height:30px !important;
+		opacity:0.85;
+	}
+	&:hover{
+		background-color:rgba(200,200,200,0.1);
+		&:before{
+			
+			opacity:1;
+		}
+	}
+
+}
+.pswp__button--arrow--left{
+	left:30px;
+	&:before{
+		background:transparent url('../../libs/owl-carousel/arrows/arrow_left_w.png') center center no-repeat !important;
+		background-size:auto 30px !important;
+		left:16px;
+	}
+}
+.pswp__button--arrow--right{
+	right:30px;
+	&:before{
+		background:transparent url('../../libs/owl-carousel/arrows/arrow_right_w.png') center center no-repeat !important;
+		background-size:auto 30px !important;
+		right:16px;
+	}
+}

@@ -1,0 +1,36 @@
+/* @include loading_style1; */
+/* @include select_box; */
+/* @include select_box2; */
+/* @include droplist_style; */
+/* @include clearfix; */
+/* @include no_outlines_borders; */
+/* @include prevent_select; */
+/* @include placeholder_color_opacity($text_color,0.7); */
+/* @include placeholder_text_transform(none); */
+/* @include flex_center(center); */
+/* @include prevent_wrap; */
+/* @include flex_width(20%); */
+/* @include turn_off_apearance; */
+/* @include flex_direction(row); */
+/* @include bg_gradient1(); */
+/* @include transitions(0.3s); */
+/* @include no_transitions(); */
+/*@include scale(0.7);*/
+/* @include contrast_filter(125%); */
+/* @include rotate_filter(45deg); */
+/* @include grayscale_filter; */
+/* @include cover; */
+/* @include contain; */
+/* @include sepia_filter; */
+/*@include no_border_radius();*/
+/* @include border_radius(10px); */
+/*@include border_radius_left(4px);*/
+/*@include border_radius_bottom(30px);*/
+/*@include border_radius_top(30px);*/
+/* @include no_box_shadow; */
+/*@include border_radius_right(4px);*/
+/*@include border_radius_left(4px);*/
+/* @include box_shadow(1px,2px,3px,#aaa); */
+/* @include text_shadow(1px,2px,3px,#aaa); */
+
+/*# sourceMappingURL=mixins.css.map */

@@ -1,0 +1,108 @@
+@import 'mixins/mixins';
+
+$red:#fa456d;
+$red2:#ffa2a2;
+$green:#2fbb11;
+$green2:#21830c;
+$yellow2:#9f8802;
+
+$border_color:#aaa;
+$border_color_hover:#555;
+$grey:#eee;
+@import 'parts/photoswipe';
+@import 'parts/preview';
+@import 'parts/modals';
+@import 'parts/styled_success_mark_front';
+
+#wpadminbar{
+	z-index:1111;
+}
+.woordf-photo-gallery{
+	padding:30px 0 60px 0;
+	
+	#photo_row_1.owl-theme{
+		.item{
+			position:relative;
+			display:block;
+			width:100%;
+			min-height:500px;
+			max-height:600px;
+			overflow:hidden;
+			a{
+				@include cover;
+				position:relative;
+				display:block;
+				width:100%;
+				min-height:500px;
+				max-height:600px;
+				overflow:hidden;
+				background-position:center center;
+				background-repeat: no-repeat;
+				img{
+					visibility:hidden;
+				}
+			}
+		}
+	}
+}
+
+.shop_table.woordf-records{
+	th.woordf-order_id{
+		width:100px;
+	}
+	th.woordf-date{
+		width:120px;
+	}
+	th.woordf-actions{
+		width:25%;
+	}
+	.inline{
+		display:inline-block;
+		span{
+			display:inline-block;
+		}
+	}
+	.woordf-type{
+		position:relative;
+		padding-left:40px;
+		.coll{
+			position:relative;
+			display:block;
+			float:left;
+			min-height:70px;
+			&.left{
+				width:30px;
+			}
+			&.right{
+				width:calc(100% - 30px);
+				font-size:14px;
+				line-height:18px;
+			}
+		}
+		.flex-center{
+			min-height:70px;
+		}
+		.woostify-svg-icon{
+			display:block;
+			width:28px;
+			height:28px;
+			padding-right:4px;
+			margin-bottom:-4px;
+		}
+	}
+	.flex-center{
+		@include flex_center(left);
+	}
+}
+/*--------------------------------------- media -------------------------*/
+@media (max-width: 768px){
+	.shop_table.woordf-records .woordf-type{
+		padding-left:0;
+	}
+	.record-block {
+		.response-text{
+			margin-bottom:20px;
+		}
+	}
+
+}

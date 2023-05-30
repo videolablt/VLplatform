@@ -1,0 +1,340 @@
+/* @include loading_style1; */
+/* @include select_box; */
+/* @include select_box2; */
+/* @include droplist_style; */
+/* @include clearfix; */
+/* @include no_outlines_borders; */
+/* @include prevent_select; */
+/* @include placeholder_color_opacity($text_color,0.7); */
+/* @include placeholder_text_transform(none); */
+/* @include flex_center(center); */
+/* @include prevent_wrap; */
+/* @include flex_width(20%); */
+/* @include turn_off_apearance; */
+/* @include flex_direction(row); */
+/* @include bg_gradient1(); */
+/* @include transitions(0.3s); */
+/* @include no_transitions(); */
+/*@include scale(0.7);*/
+/* @include contrast_filter(125%); */
+/* @include rotate_filter(45deg); */
+/* @include grayscale_filter; */
+/* @include cover; */
+/* @include contain; */
+/* @include sepia_filter; */
+/*@include no_border_radius();*/
+/* @include border_radius(10px); */
+/*@include border_radius_left(4px);*/
+/*@include border_radius_bottom(30px);*/
+/*@include border_radius_top(30px);*/
+/* @include no_box_shadow; */
+/*@include border_radius_right(4px);*/
+/*@include border_radius_left(4px);*/
+/* @include box_shadow(1px,2px,3px,#aaa); */
+/* @include text_shadow(1px,2px,3px,#aaa); */
+/* line 7, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.container-fluid {
+  width: 100%;
+}
+
+/* line 9, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.container-fluid.sm {
+  max-width: 800px;
+}
+
+/* line 14, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+body.embed #woordf_view_files_modal {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* line 17, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+body.embed #woordf_view_files_modal .container {
+  text-align: center;
+}
+
+/* line 21, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf_embeded {
+  width: calc(100% - 30px);
+}
+
+/* line 25, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf_embeded.images .woordf-grid.photos {
+  width: calc(100% + 10px);
+}
+
+/* line 31, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf_embeded .woordf-photo-gallery {
+  position: relative;
+}
+
+/* line 35, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf_embeded .row, .woordf_embeded .container {
+  position: relative;
+}
+
+/* line 40, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid {
+  position: relative;
+  display: block;
+  width: 100%;
+  min-height: 50px;
+}
+
+/* line 231, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/mixins/mixins.scss */
+.woordf-grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 47, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item {
+  position: relative;
+  display: block;
+  width: 20%;
+  float: left;
+  height: 280px;
+  margin-bottom: 20px;
+}
+
+/* line 56, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner {
+  -webkit-transition: all 0.3s ease-out 0.3s;
+  -moz-transition: all 0.3s ease-out 0.3s;
+  -o-transition: all 0.3s ease-out 0.3s;
+  transition: all 0.3s ease-out 0.3s;
+  -webkit-transition-delay: 0s;
+  /* Safari */
+  transition-delay: 0s;
+  position: relative;
+  display: block;
+  width: calc(100% - 40px);
+  marging: 10px;
+  padding: 0 10px 5px 10px;
+  border: 1px solid #aaa;
+}
+
+/* line 65, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner:hover {
+  border: 1px solid #555;
+}
+
+/* line 68, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div {
+  position: relative;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+/* line 73, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.image {
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 200px;
+  margin-left: -10px;
+  margin-right: -10px;
+  width: calc(100% + 20px);
+}
+
+/* line 81, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.image .woostify-svg-icon {
+  display: none;
+}
+
+/* line 84, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.image.no-thumb {
+  background: #efefef;
+}
+
+/* line 86, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.image.no-thumb .woostify-svg-icon {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  min-height: 200px;
+}
+
+/* line 89, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.image.no-thumb .woostify-svg-icon svg {
+  width: 60px;
+  height: 60px;
+}
+
+/* line 93, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.image.no-thumb .woostify-svg-icon svg path {
+  fill: black;
+}
+
+/* line 100, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.type {
+  background: #999;
+  color: white;
+  padding: 2px 0;
+  margin-left: -10px;
+  margin-right: -10px;
+  width: calc(100% + 20px);
+}
+
+/* line 107, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.type svg {
+  padding-right: 4px;
+}
+
+/* line 109, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.type svg path {
+  fill: white;
+}
+
+/* line 114, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item .inner div.label {
+  padding: 8px 0;
+}
+
+/* line 119, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item.single {
+  cursor: pointer;
+}
+
+/* line 121, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item.single .inner {
+  padding: 10px;
+  border: none;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  -moz-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1);
+}
+
+/* line 125, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item.single .inner:hover {
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+/* line 128, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.woordf-grid .item.single .inner a {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 280px;
+}
+
+/*video*/
+/* line 142, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.record-block {
+  position: relative;
+  display: block;
+  width: calc(100% - 40px);
+  padding-left: 20px;
+}
+
+/* line 150, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+#woordf_view_files_modal .counter {
+  text-align: center;
+  padding: 12px 0 0 0;
+}
+
+/* line 155, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.item-nav {
+  -webkit-transition: all 0.3s ease-out 0.3s;
+  -moz-transition: all 0.3s ease-out 0.3s;
+  -o-transition: all 0.3s ease-out 0.3s;
+  transition: all 0.3s ease-out 0.3s;
+  -webkit-transition-delay: 0s;
+  /* Safari */
+  transition-delay: 0s;
+  position: absolute;
+  display: none;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  cursor: pointer;
+  top: calc(50% - 30px);
+}
+
+/* line 165, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.item-nav svg {
+  width: 22px;
+  height: 22px;
+}
+
+/* line 170, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.item-nav.active {
+  display: block;
+  opacity: 0.75;
+}
+
+/* line 173, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.item-nav.active:hover {
+  opacity: 1;
+}
+
+/* line 177, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.item-nav.left {
+  left: 0;
+}
+
+/* line 180, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.item-nav.right {
+  right: 0;
+}
+
+/* line 185, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.resp-wrapper {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  width: auto;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+/* line 191, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.resp-wrapper .inner {
+  min-width: 500px;
+}
+
+/* line 195, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+.container-fluid.photo-360 {
+  padding: 0 !important;
+  margin: 0;
+  width: calc(100% - 30px);
+}
+
+@media (max-width: 768px) {
+  /* line 202, C:/xampp/htdocs/videolab/wp-content/plugins/woocommerce_order_files/assets/sass/embed-style.scss */
+  .resp-wrapper .inner {
+    min-width: 90%;
+  }
+}
+
+/*# sourceMappingURL=embed-style.css.map */

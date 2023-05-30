@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styled_toogler.css",
+	"sources": [
+		"../../sass/mixins/styled_toogler.scss"
+	],
+	"sourcesContent": [
+		"/* @include styled_toogler; */\r\n@mixin styled_toogler\r\n{\r\n\t$buble_width:20px;\r\n\t$toogler_height:30px;\r\n\t$blue:#2271b1;\r\n\t\r\n.woowoordf_styled-toogler{\r\n\r\n\tinput[type=checkbox]{\r\n\t\theight: 0;\r\n\t\twidth: 0;\r\n\t\tvisibility: hidden;\r\n\t}\r\n\r\n\tlabel {\r\n\t\t@include transitions(0.3s);\r\n\t\tcursor: pointer;\r\n\t\ttext-align:center;\r\n\t\twidth: 50px !important;\r\n\t\theight: $toogler_height;\r\n\t\tbackground: grey;\r\n\t\tdisplay: block;\r\n\t\tcolor:white;\r\n\t\tborder-radius: 40px;\r\n\t\tposition: relative;\r\n\t\tpadding:0 5px 0 17px !important;\r\n\t\tfont-weight:normal;\r\n\t\tline-height:30px;\r\n\r\n\t}\r\n\r\n\r\n\tlabel:after {\r\n\t\tcontent: '';\r\n\t\tposition: absolute;\r\n\t\ttop: 5px;\r\n\t\tleft: 5px;\r\n\t\twidth: $buble_width;\r\n\t\theight: $buble_width;\r\n\t\tbackground: #fff;\r\n\t\tborder-radius: $buble_width;\r\n\t\ttransition: 0.3s;\r\n\t}\r\n\r\n\tinput:checked + label {\r\n\t\tbackground: $green;\r\n\t\tpadding-left:5px !important;\r\n\t\tpadding-right:18px !important;\r\n\t}\r\n\t&.blue input:checked + label {\r\n\t\tbackground:$blue;\r\n\t}\r\n\tinput:checked + label:after {\r\n\t\tleft: calc(100% - 5px);\r\n\t\ttransform: translateX(-100%);\r\n\t}\r\n\r\n\tlabel:active:after {\r\n\t\twidth: $buble_width;\r\n\t}\r\n\t$buble_width:30px;\r\n\t$toogler_height:40px;\r\n\t&.lg{\r\n\t\tlabel {\r\n\t\t\twidth:120px !important;\r\n\t\t\theight:$toogler_height;\r\n\t\t\tline-height:$toogler_height;\r\n\t\t\t&:after{\r\n\t\t\t\twidth: $buble_width;\r\n\t\t\t\theight: $buble_width;\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}\r\n\r\n\t\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": "AAAA,8BAA8B"
+}

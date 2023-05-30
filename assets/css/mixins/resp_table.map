@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "resp_table.css",
+	"sources": [
+		"../../sass/mixins/resp_table.scss"
+	],
+	"sourcesContent": [
+		"/* @include responsive_table; */\r\n@mixin responsive_table\r\n{\r\n\t$row_bg_color:#e5e5e5;\r\n\t$row_bg_color_odd:#f0f0f0;\r\n\t$row_bg_color_higlight:#fff;\r\n\t$header_bg_color:#bfbfbf;\r\n\t$border_color:#777;\r\n\t$text_color:#333;\r\n\t.woob2b-resp-table {\r\n\t\twidth: 100%;\r\n\t\tdisplay: table;\r\n\t\tmargin-bottom:30px;\r\n\t\tborder-top: 1px solid $border_color;\r\n\t\t.woob2b-resp-table-body{\r\n\t\t\tdisplay: table-row-group;\r\n\t\t}\t\r\n\t\t.woob2b-resp-table-row{\r\n\t\t\t@include transitions(0.3s);\r\n\t\t\t@include turn_off_apearance;\r\n\t\t\tdisplay: table-row;\r\n\t\t\ttable-layout: fixed;\r\n\t\t\tbackground:$row_bg_color;\r\n\t\t\tcolor:$text_color;\r\n\t\t\ttext-decoration: none !important;\r\n\t\t\t&*{\r\n\t\t\t\ttext-decoration: none !important;\r\n\t\t\t}\r\n\t\t\t&:visited,&:active,&:focus{\r\n\t\t\t\tcolor:$text_color;\r\n\t\t\t\ttext-decoration: none;\r\n\t\t\t}\r\n\t\t\t&:hover{\r\n\t\t\t\tcolor:$text_color;\r\n\t\t\t\ttext-decoration: none;\r\n\t\t\t\toutline:none !important;\r\n\t\t\t}\r\n\r\n\t\t\t.woob2b-table-cell{\r\n\t\t\t\tdisplay: table-cell;\r\n\t\t\t\tpadding: 10px;\r\n\t\t\t\tvertical-align: middle;\r\n\t\t\t\ttext-align:center;\r\n\t\t\t\tborder-right: 1px solid $border_color;\r\n\t\t\t\tborder-bottom: 1px solid $border_color;\r\n\t\t\t\twhite-space: pre-wrap;\r\n\t\t\t\tword-break: keep-all;\r\n\t\t\t\tfont-size:13px;\r\n\t\t\t\t&:nth-child(1){\r\n\t\t\t\t\tborder-left: 1px solid $border_color;\t\r\n\t\t\t\t}\r\n\t\t\t\t&.sm{\r\n\t\t\t\t\tmax-width:110px;\r\n\t\t\t\t}\r\n\r\n\t\t\t}\r\n\t\t\t&:nth-child(odd){\r\n\t\t\t\tbackground:$row_bg_color_odd;\r\n\t\t\t}\r\n\t\t\t&:hover{\r\n\t\t\t\tbackground:$row_bg_color_higlight;\r\n\t\t\t}\r\n\r\n\t\t\t\r\n\t\t}\r\n\r\n\t\t.woob2b-resp-table-header .woob2b-table-cell{\r\n\r\n\t\t\t\r\n\t\t\tbackground:$header_bg_color;\r\n\t\t\tfont-weight:bold;\r\n\t\t\tfont-size:15px;\r\n\t\t}\r\n\t}\r\n\t.woob2b_actions{\r\n\t\ta{\r\n\t\t\tpadding:0 4px;\r\n\t\t}\r\n\t}\r\n\t/*------------------------------ media ------------------------*/\r\n\t@media (max-width: 750px) {\r\n\t\t.woob2b-resp-table {\r\n\t\t\t.woob2b-resp-table-row{\r\n\t\t\t\t.woob2b-table-cell{\r\n\t\t\t\t\t&.inv-mob{\r\n\t\t\t\t\t\tdisplay:none !important;\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,gCAAgC"
+}
