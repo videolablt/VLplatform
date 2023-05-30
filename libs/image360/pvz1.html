@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>js-cloudimage-360-view</title>
+    <meta charset="UTF-8" />
+    <style>
+      .btn {
+        background-color: #2c4c61;
+        border: 0;
+        padding: 7px 10px;
+        color: #ffffff;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-bottom: 20px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <button class="btn" onclick="add360View('gurkha-suv')">Add 360 view</button>
+    <!-- simply iniatialize it with class name "cloudimage-360", server folder path, file name and amount of images -->
+    <div
+      id="gurkha-suv"
+      data-folder="https://scaleflex.cloudimg.io/v7/demo/suv-orange-car-360/"
+      data-filename-x="orange-{index}.jpg"
+      data-amount-x="73"
+    ></div>
+
+    <!-- Add script tag with CDN link to js-cloudimage-360-view lib after all content in body tag -->
+    <script src="https://cdn.scaleflex.it/plugins/js-cloudimage-360-view/latest/js-cloudimage-360-view.min.js"></script>
+    <script>
+      function add360View(viewId) {
+        const new360View = document.getElementById(viewId);
+        new360View.classList.add("cloudimage-360");
+        window.CI360.add(viewId);
+      }
+    </script>
+  </body>
+</html>

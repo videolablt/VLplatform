@@ -1,0 +1,1324 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce_order_files 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2020-09-07 14:06+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"Language: lt\n"
+
+#: string 0
+msgid "Done"
+msgstr "Baigta"
+
+msgid "E-mail address to which letters will be sent to the administrator"
+msgstr "El. pašto adresas kuriuo bus siunčiami laiškai administratoriui"
+
+msgid "Choose category"
+msgstr "Pasirinkite kategoriją"
+
+msgid "(Deffault)"
+msgstr "(Numatytoji)"
+
+msgid "How many records show per page"
+msgstr "Kiek įrašų rodyti viename puslapyje"
+
+msgid "How many categories show per page"
+msgstr "Kiek kategorijų rodyti viename puslapyje"
+
+msgid "Preview url:"
+msgstr "Peržiūros url:"
+
+msgid "Create new category"
+msgstr "Sukurti naują kategoriją"
+
+msgid "By category"
+msgstr "Pagal kategoriją"
+
+msgid "Folder contents size"
+msgstr "Katalogo turinio dydis"
+
+msgid "Record details"
+msgstr "Įrašo detalės"
+
+msgid "Add new category"
+msgstr "Pridėti naują kategoriją"
+
+msgid "New category name"
+msgstr "Naujos kategorijos pavadinimas"
+
+msgid "Name"
+msgstr "Vardas"
+
+msgid "Default category can not be removed!"
+msgstr "Numatytosios kategorijos pašalinti negalima!"
+
+msgid "Uncategorized"
+msgstr "Be kategorijos"
+
+msgid "Categories"
+msgstr "Kategorijos"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Category name"
+msgstr "Kategorijos pavadinimas"
+
+msgid "No categories found."
+msgstr "Kategorijų nerasta."
+
+msgid "Search by label"
+msgstr "Paieška pagal pavadinimą"
+
+msgid "Search records"
+msgstr "Ieškoti"
+
+msgid "Write search keyword"
+msgstr "Įveskite raktažodį paieškai"
+
+#: string 1
+msgid "Invalid username or password"
+msgstr "Neteieingas slapyvardis arba slaptažodis"
+
+msgid "Choose:"
+msgstr "Pasirinkite:"
+
+msgid "Local files"
+msgstr "Lokalūs failai"
+
+msgid "Edit record"
+msgstr "Redaguoti įrašą"
+
+msgid "Edit last record"
+msgstr "Redaguoti paskutinį įrašą"
+
+msgid "Record"
+msgstr "Įrašas"
+
+msgid "Administrator, record {record} expired and was removed."
+msgstr "Administratoriau, įrašo {record} galiojimo laikas pasibaigė, jis bei su juo susiję failai buvo pašalinti"
+
+msgid "Administrator, record {record} will expire after {days} days."
+msgstr "Administratoriau, įrašo {record} galiojimo laikas baigsis už {days} dienų."
+
+msgid "Record {record} expired and was removed."
+msgstr "Įrašo {record} galiojimo laikas pasibaigė, jis bei su juo susiję failai buvo pašalinti"
+
+msgid "Record {record} will expire after {days} days."
+msgstr "Įrašo {record} galiojimo laikas baigsis už {days} dienų."
+
+msgid "Letter was generated automatically by "
+msgstr "Šis laiškas buvo automatiškai generuotas "
+
+msgid "Localy"
+msgstr "Lokaliai"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Send"
+msgstr "Siųsti"
+
+msgid "How many times user can rate Premium product"
+msgstr "Kiek kartų vartotojas gali įvertinti Premium paslaugą"
+
+msgid "Main plugin"
+msgstr "Pagrindiniai įskiepio"
+
+msgid "options"
+msgstr "nustatymai"
+
+msgid "Rate"
+msgstr "Įvertinti"
+
+msgid "Administrator"
+msgstr "Administratorius"
+
+msgid "Product confirmed!"
+msgstr "Produktas patvirtintas!"
+
+msgid "Max rating count is used"
+msgstr "Maksimalus įvertinimų kiekis panaudotas"
+
+msgid "Product rating logs"
+msgstr "Produkto įvertinimų eiga"
+
+msgid "This product not rated yet."
+msgstr "Šis produktas kol kas neįvertintas."
+
+msgid "Administrator not maded changes yet."
+msgstr "Administratorius dar nespėjo padaryti pakeitimų."
+
+msgid "The quality satisfies me"
+msgstr "Kokybė tenkina"
+
+msgid "I have comments"
+msgstr "Turiu komentarų"
+
+msgid "Write your comment"
+msgstr "Jūsų komentaras"
+
+msgid "File url"
+msgstr "Failo url"
+
+msgid "Photo 360 / 3D default parameters"
+msgstr "360 / 3D nuotraukų numatytieji parametrai"
+
+msgid "Wrong file format, allowed: "
+msgstr "Neteisingas failo tipas, leidžiami: "
+
+msgid "Preview 360 / 3D photos"
+msgstr "Peržiūrėti 360 / 3D nuotraukas"
+
+msgid "Upload files localy or from other server?"
+msgstr "Pridėti failus lokaliai ar iš kito serverio?"
+
+msgid "Remote files"
+msgstr "Nutolę šaltiniai"
+
+msgid "From other server"
+msgstr "Iš kito serverio"
+
+msgid "Remote file"
+msgstr "Nutolęs šaltinis"
+
+msgid "Folder name"
+msgstr "Katalogo pavadinimas"
+
+msgid "Record was updated successfully!"
+msgstr "Įrašas buvo sėkmingai atnaujintas!"
+
+msgid "Localization"
+msgstr "Šaltinis"
+
+msgid "Fill all fields first!"
+msgstr "Pirma užpildykite visus laukelius!"
+
+msgid "File purpose"
+msgstr "Failų(-o) paskirtis"
+
+msgid "Record(-s) was removed!"
+msgstr "Įrašas(-ai) buvo pašalinti!"
+
+msgid "Record was removed!"
+msgstr "Įrašas buvo pašalintas!"
+
+msgid "Download / Preview"
+msgstr "Atsisiųsti / Peržiūrai"
+
+msgid "Premium / Standart"
+msgstr "Premium / Standartinė"
+
+msgid "Person type"
+msgstr "Vartotojo tipas"
+
+msgid "frames"
+msgstr "kadrai"
+
+msgid "Logs"
+msgstr "Logai"
+
+msgid "Logs and e-mail automatic notifiacations"
+msgstr "Logai ir automatiniai pranešimai el. paštu"
+
+msgid "No logs yet."
+msgstr "Kol kas logų nėra."
+
+msgid "Removed expired record %s and files, expire date: %s"
+msgstr "Pašalintas įrašas: %s, bei failai, kurio galiojimo data (%s) pasibaigė"
+
+msgid "Standart"
+msgstr "Standartinė"
+
+
+msgid "Create log when the specified deadline approaches"
+msgstr "Kurti logo įrašą, kai iki galiojimo laiko termino lieka nurodytas dienų skaičius"
+
+msgid "Specify the number of days until expiration (will be used for logs and emails)"
+msgstr "Nurodykite dienų skaičių, iki galiojimo laiko pabaigos (bus naudojamas logams ir el. laiškams)"
+
+msgid "when the specified number of days remain before the expiration date"
+msgstr "kai iki galiojimo laiko termino lieka nurodytas dienų skaičius"
+
+msgid "when files storing deadline expires"
+msgstr "kai baigėsi failų saugojimo serveryje galiojimo laikas"
+
+msgid "The content of the email when the message is sent to the administrator"
+msgstr "El. laiško administratoriui turinys"
+
+msgid "The content of the email when the message is sent to the customer"
+msgstr "El. laiško klientui turinys"
+
+msgid "We would like to inform you that your file storage will expire in {days} days, hurry up to download your files if you haven't already!"
+msgstr "Norime informuoti, kad už {days} dienų baigsis jūsų failų saugojimo terminas, suskubkite atsisiųsti failus jei to dar nepadarėte!"
+
+msgid "We would like to inform you that in {days} days the storage term for the record {record} files will expire!"
+msgstr "Norime informuoti, kad už {days} dienų baigsis {record} įrašo failų saugojimo terminas!"
+
+msgid "We would like to inform you that your files on the server have expired and have been removed!"
+msgstr "Norime informuoti, kad baigėsi jūsų failų laikymo serveryje galiojimo terminas, ir jie buvo pašalinti!"
+
+msgid "We would like to inform you that record {record} files on the server have expired and have been removed!"
+msgstr "Norime informuoti, kad baigėsi įrašo {record} laikymo serveryje galiojimo terminas, todėl įrašas ir su juo susiję failai buvo pašalinti!"
+
+msgid "Keywords you can use in content: %s - %s, %s - %s, %s - %s, %s - %s, %s - %s, %s - %s"
+msgstr "Raktažodžiai, kuriuos galite naudoti turinyje: %s - %s, %s - %s, %s - %s, %s - %s, %s - %s, %s - %s"
+
+msgid "Keywords you can use in content: %s - %s, %s - %s, %s - %s, %s - %s, %s - %s"
+msgstr "Raktažodžiai, kuriuos galite naudoti turinyje: %s - %s, %s - %s, %s - %s, %s - %s, %s - %s"
+
+msgid "Keywords you can use in content: %s - %s, %s - %s, %s - %s, %s - %s"
+msgstr "Raktažodžiai, kuriuos galite naudoti turinyje: %s - %s, %s - %s, %s - %s, %s - %s"
+
+msgid "Keywords you can use in content: %s - %s, %s - %s"
+msgstr "Raktažodžiai, kuriuos galite naudoti turinyje: %s - %s, %s - %s"
+
+msgid "day count until expire date."
+msgstr "dienų skaičius iki galiojimo laiko"
+
+msgid "when customer rates product"
+msgstr "kai klientas įvertina produktą"
+
+msgid "when administrator rates product"
+msgstr "kai administratorius įvertina produktą"
+
+msgid "Dear customer, we would like to inform you, that the administrator has made changes to the product {record} and commented"
+msgstr "Informuojame, kad administratorius padarė produkto {record} pakeitimus ir pakomentavo"
+
+msgid "customer information."
+msgstr "kliento informacija."
+
+msgid "customer comment."
+msgstr "kliento komentaras."
+
+msgid "line break"
+msgstr "perkėlimas į kitą eilutę"
+
+msgid "Administrator commented product {record}, {br}comment: {comment}. {br}Order id: {order_id}. {br}Please take a look at updated product and leave your feedback."
+msgstr "Administratius pakomentavo produktą {record}, {br}komentaras: {comment}. {br}Užsakymo id: {order_id}. {br}Prašome peržiūrėti atnaujintą produktą ir jį įvertinti."
+
+msgid "Customer - {customer} rated product {record}, {br}comment: {comment}. {br}Order id: {order_id}"
+msgstr "Klientas  - {customer} įvertino produktą {record}, {br}komentaras: {comment}. {br}Užsakymo id: {order_id}"
+
+msgid "Admin, product {record} has been rated by a user {customer}"
+msgstr "Administratoriau, produktas {record} buvo įvertintas kliento: {customer}"
+
+msgid "Send email to customer"
+msgstr "Siųsti el. laišką klientui"
+
+msgid "Send email to administrator"
+msgstr "Siųsti el. laišką administratoriui"
+
+msgid "record information"
+msgstr "įrašo informacija"
+
+msgid "from"
+msgstr "nuo"
+
+msgid "to"
+msgstr "iki"
+
+msgid "Filter logs"
+msgstr "Filtruoti logus"
+
+msgid "Search in commment"
+msgstr "Ieškoti komentaruose"
+
+msgid "Record %s will expire after %s days, on: %s"
+msgstr "Įrašo %s galiojimo laikas baigsis po %s dienų: %s"
+
+msgid "Expires date (folder will be removed after)"
+msgstr "Data, iki kada laikyti failus serveryje (katalogas bus po to pašalintas)"
+
+msgid "User status"
+msgstr "Vartotojo statusas"
+
+msgid "Dashboard"
+msgstr "Pradžia"
+
+msgid "User options"
+msgstr "Paskyros nustatymai"
+
+msgid "My templates"
+msgstr "Mano ruošiniai"
+
+msgid "Company requests"
+msgstr "Verslo užklausos"
+
+msgid "New request"
+msgstr "Nauja užklausa"
+
+msgid "Upload no."
+msgstr "Įrašo nr."
+
+msgid "Request validation"
+msgstr "Užklausų tvirtinimas"
+
+msgid "Confirmed requests"
+msgstr "Patvirtintos užklausos"
+
+msgid "Cancelled requests"
+msgstr "Atšauktos užklausos"
+
+msgid "Reset to defaults"
+msgstr "Atstatyti į numatytuosius"
+
+msgid "Search"
+msgstr "Paieška"
+
+msgid "Product for business clients"
+msgstr "Produktas verslo klientams"
+
+msgid "Check this product as product for business clients"
+msgstr "Produktas skirtas verslo klientams"
+
+msgid "Add field"
+msgstr "Pridėti laukelį"
+
+msgid "Field type"
+msgstr "Laukelio tipas"
+
+msgid "Options"
+msgstr "Pasirinkimai"
+
+msgid "Label"
+msgstr "Pavadinimas"
+
+msgid "Text"
+msgstr "Tekstas"
+
+msgid "Select"
+msgstr "Pasirinkimas"
+
+msgid "Resource"
+msgstr "Paveikslėlis"
+
+msgid "Seperate options by pressing enter key"
+msgstr "Pasirinkimus atskirkite spausdami ENTER"
+
+msgid "Remove field"
+msgstr "Pašalinti laukelį"
+
+msgid "Duplicate field"
+msgstr "Sukurti duplikatą"
+
+msgid "Image"
+msgstr "Nuotrauka"
+
+msgid "Field name"
+msgstr "Laukelio pavadinimas"
+
+msgid "field_key"
+msgstr "laukelio_raktazodis"
+
+msgid "Field name (text)"
+msgstr "Laukelio pavadinimas (tekstas)"
+
+msgid "Validated company"
+msgstr "Patvirtinta įmonė"
+
+msgid "Company validation"
+msgstr "Įmonės patvirtinimas"
+
+msgid "(administrators can edit only)"
+msgstr "(patvirtinti gali tik administratorius)"
+
+msgid "(customer decision)"
+msgstr "(kliento pasirinkimas)"
+
+msgid "Not validated"
+msgstr "Nepatvirtina"
+
+msgid "Submit request"
+msgstr "Pateikti užklausą"
+
+msgid "Required"
+msgstr "Privalomas"
+
+msgid "Conditions"
+msgstr "Sąlygos"
+
+msgid "Status"
+msgstr "Statusas"
+
+msgid "Choose"
+msgstr "Pasirinkite"
+
+msgid "Request no."
+msgstr "Užklausos nr."
+
+msgid "Product"
+msgstr "Produktas"
+
+msgid "Awaiting response"
+msgstr "Laukiama pasiūlymo"
+
+msgid "Awaiting customer approval"
+msgstr "Laukiama kliento patvirtinimo"
+
+msgid "Confirmed"
+msgstr "Patvirtinta"
+
+msgid "Cancelled"
+msgstr "Atšaukta"
+
+msgid "Textarea"
+msgstr "Teksto laukas"
+
+msgid "Quantity"
+msgstr "Kiekis"
+
+msgid "Price"
+msgstr "Kaina"
+
+msgid "Payment status"
+msgstr "Apmokėjimo statusas"
+
+msgid "Unpayed"
+msgstr "Neapmokėtas"
+
+msgid "Pick up in shop"
+msgstr "Atsiimti vietoje"
+
+msgid "Send product"
+msgstr "Atsiųsti prekes"
+
+msgid "User actions"
+msgstr "Vartotojo veiksmai"
+
+msgid "Actions"
+msgstr "Veiksmai"
+
+msgid "Confirm and pay"
+msgstr "Patvirtinti ir apmokėti"
+
+msgid "Confirm"
+msgstr "Patvirtinti"
+
+msgid "View"
+msgstr "Peržiūrėti"
+
+msgid "Videos"
+msgstr "Video"
+
+msgid "Images"
+msgstr "Nuotraukos"
+
+msgid "Order not found!"
+msgstr "Užsakymas nerastas"
+
+msgid "Order"
+msgstr "Užsakymas"
+
+msgid "The order"
+msgstr "Užsakymo"
+
+msgid "Order No."
+msgstr "Užsakymo nr."
+
+msgid "Request"
+msgstr "Užklausa"
+
+msgid "Shipment"
+msgstr "Pristatymas"
+
+msgid "Specifications"
+msgstr "Specifikacija"
+
+msgid "Download layot"
+msgstr "Atsisiųsti maketą"
+
+msgid "Estimate no."
+msgstr "Sąmatos numeris"
+
+msgid "Comment"
+msgstr "Komentaras"
+
+msgid "Your comment"
+msgstr "Jūsų komentaras"
+
+msgid "Proposal comment"
+msgstr "Pasiūlymo komentaras"
+
+msgid "Template name"
+msgstr "Ruošinio pavadinimas"
+
+msgid "Company name"
+msgstr "Įmonės pavadinimas"
+
+msgid "Company address"
+msgstr "Įmonės adresas"
+
+msgid "Company code"
+msgstr "Įmonės kodas"
+
+msgid "VAT number"
+msgstr "PVM kodas"
+
+msgid "is required feld!"
+msgstr "yra privalomas laukelis, prašome užpildyti!"
+
+msgid "This field is required!"
+msgstr "Šis laukelis yra privalomas!"
+
+msgid "Desired production date"
+msgstr "Pageidaujama pagaminimo data"
+
+msgid "Datepicker"
+msgstr "Data"
+
+msgid "Colorpicker"
+msgstr "Spalva"
+
+msgid "Sheduled production date"
+msgstr "Numatoma pagaminimo data"
+
+msgid "Checkbox"
+msgstr "Sutikimas"
+
+msgid "Value"
+msgstr "Reikšmė"
+
+msgid "Yes"
+msgstr "Taip"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Target"
+msgstr "Laukelis"
+
+msgid "Target value"
+msgstr "Reikšmė"
+
+msgid "Show if:"
+msgstr "Rodyti jei:"
+
+msgid "Cancel request"
+msgstr "Atšaukti užklausą"
+
+msgid "Edit request"
+msgstr "Redaguoti užklausą"
+
+msgid "Order processing"
+msgstr "Gaminamas užsakymas"
+
+#: admin part
+
+msgid "User"
+msgstr "Klientas"
+
+msgid "Created"
+msgstr "Sukurta"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "Business clients requests"
+msgstr "Verslo klientų užklausos"
+
+msgid "Filter orders"
+msgstr "Filtruoti užklausas"
+
+msgid "By status"
+msgstr "Pagal statusą"
+
+msgid "Filter"
+msgstr "Filtruoti"
+
+msgid "By user"
+msgstr "Pagal klientą"
+
+msgid "By product"
+msgstr "Pagal produktą"
+
+msgid "Request created"
+msgstr "Užklausa sukurta"
+
+msgid "Request updated"
+msgstr "Užklausa atnaujinta"
+
+msgid "User comment"
+msgstr "Vartotojo komentaras"
+
+msgid "Remove"
+msgstr "Šalinti"
+
+msgid "Key"
+msgstr "Raktažodis"
+
+msgid "Request attributes"
+msgstr "Užklausos parametrai"
+
+msgid "Order information"
+msgstr "Užsakymo informacija"
+
+msgid "Request was successfully sent!"
+msgstr "Užklausa sėkmingai išsiųsta!"
+
+msgid "Options was successfully updated!"
+msgstr "Nustatymai buvo sėkmingai atnaujinti!"
+
+msgid "Request was validated! New order has been created!"
+msgstr "Užklausa patvirtinta! Naujas užsakymas buvo sukurtas!"
+
+msgid "You can track all requests and orders in your account."
+msgstr "Visas užklausas ir užsakymus galite sekti savo paskyroje."
+
+msgid "Go there"
+msgstr "Eiti"
+
+msgid "Go to orders"
+msgstr "Eiti į užsakymus"
+
+msgid "Ok"
+msgstr "Gerai"
+
+msgid "Request was successfully updated!"
+msgstr "Užklausa buvo sėkmingai atnaujinta!"
+
+msgid "There is no products fom business clients!"
+msgstr "Šiuo metu nėra produktų, skirtų verslo klientams!"
+
+msgid "Create template"
+msgstr "Sukurti ruošinį"
+
+msgid "Create"
+msgstr "Sukurti"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Template was successfully created!"
+msgstr "Ruošinys sėkmingai sukurtas!"
+
+msgid "Template with the same name already exists!"
+msgstr "Toks ruošinio pavadinimas jau yra!"
+
+msgid "Template name is empty!"
+msgstr "Įveskite ruošinio pavadinimą!"
+
+msgid "Type"
+msgstr "Tipas"
+
+msgid "Small"
+msgstr "Mažas"
+
+msgid "Medium"
+msgstr "Vidutinis"
+
+msgid "Large"
+msgstr "Didelis"
+
+msgid "Extra large"
+msgstr "Labai didelis"
+
+msgid "Company fields"
+msgstr "Įmonės duomenys"
+
+msgid "Business person"
+msgstr "Juridinis asmuo"
+
+msgid "You forgot company name"
+msgstr "Užmiršote nurodyti įmonės pavadinimą"
+
+msgid "Shortcodes in my account page"
+msgstr "Trumpiniai, mano paskyros puslapiuose"
+
+msgid "Put shortcodes there"
+msgstr "Įklijuokite trumpinius čia"
+
+msgid "Before content"
+msgstr "Prieš turinį"
+
+msgid "After content"
+msgstr "Po turiniu"
+
+msgid "Hide dashboard page content for business clients"
+msgstr "Slėpti verslo klientams mano paskyros pradinio puslapio turinį"
+
+msgid "Hide"
+msgstr "Slėpti"
+
+msgid "Its parent menu item with submenu, not has page content"
+msgstr "Tėvinis meniu elementas, turinio neturi"
+
+msgid "Value must be greater or equal"
+msgstr "Rekšmė turi būti didesnė arba lygi"
+
+msgid "Max value is"
+msgstr "Reikšmė negali būti didesnė nei"
+
+msgid "Remove request"
+msgstr "Šalinti užklausą"
+
+msgid "Request was cancelled!"
+msgstr "Užklausa buvo atšaukta!"
+
+msgid "Request will be removed. Do you really want this?"
+msgstr "Užklausa bus pašalinta. Ar jūs tikras, kad tai norite padaryti?"
+
+msgid "Request was successfully removed!"
+msgstr "Užklausa buvo sėkmingai pašalinta!"
+
+msgid "Something went wrong!"
+msgstr "Deja, turime serverio problemų, bandykite vėliau!"
+
+msgid "Company logo"
+msgstr "Įmonės logotipas"
+
+msgid "Archyve files"
+msgstr "Failų archyvavimas"
+
+msgid "Add logo"
+msgstr "Priskirti logotipą"
+
+msgid "Price offer"
+msgstr "Kainos pasiūlymas"
+
+msgid "Price / unt."
+msgstr "Kaina / vnt."
+
+msgid "Price x %s unt."
+msgstr "Kaina x %s vnt."
+
+msgid "VAT"
+msgstr "PVM"
+
+msgid "Price with VAT"
+msgstr "Kaina su PVM"
+
+msgid "Calculating"
+msgstr "Skaičiuojama"
+
+msgid "Use template"
+msgstr "Naudoti ruošinį"
+
+msgid "Delivery"
+msgstr "Pristatymas"
+
+msgid "Delivery nr."
+msgstr "Pristatymo nr."
+
+msgid "Choose image"
+msgstr "Pridėkite nuotrauką"
+
+msgid "Change image"
+msgstr "Keisti nuotrauką"
+
+msgid "Activate your plugin version"
+msgstr "Įskiepio aktyvavimas"
+
+msgid "This plugin was created by order of %s and only approved users can use this. For rights to use this plugin, contact a representative of this company."
+msgstr "Šis įskiepis buvo sukurtas firmos %s užsakymu, ir juo gali naudotis tik šios firmos patvirtinti vartotojai. Dėl teisių naudotis šiuo įskiepiu kreipkitės į šios firmos atstovą."
+
+msgid "Enter the license key"
+msgstr "Įveskite licencijos raktą"
+
+msgid "Plugin was successfully activated!"
+msgstr "Įskiepis buvo sėkmingai akyyvuotas!"
+
+msgid "Invalid key!"
+msgstr "Neteisingas raktas!"
+
+msgid "Submit"
+msgstr "Aktyvuoti"
+
+msgid "Plugin status: "
+msgstr "Įskiepio statusas: "
+
+msgid "activated"
+msgstr "aktyvuotas"
+
+msgid "not activated"
+msgstr "ne aktyvuotas"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Deactivate"
+msgstr "Deaktyvuoti"
+
+msgid "Active license key: "
+msgstr "Aktyvus licencijos raktas: "
+
+msgid "Preferred"
+msgstr "Pageidaujama"
+
+msgid "Suggested"
+msgstr "Siūloma"
+
+msgid "Manage conditions"
+msgstr "Redaguoti sąlygas"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Choose field"
+msgstr "Pasirinkite laukelį"
+
+msgid "Equal"
+msgstr "Lygus"
+
+msgid "If"
+msgstr "Jei"
+
+msgid "Choose operator"
+msgstr "Pasirinkite operatorių"
+
+msgid "Choose value"
+msgstr "Pasirinkite reikšmę"
+
+msgid "Field display conditions"
+msgstr "Laukelio rodymo sąlygos"
+
+msgid "Not equal"
+msgstr "Ne lygus"
+
+msgid "OR"
+msgstr "ARBA"
+
+msgid "AND"
+msgstr "IR"
+
+msgid "Add condition"
+msgstr "Pridėti sąlygą"
+
+msgid "Condition"
+msgstr "Sąlyga"
+
+msgid "Show"
+msgstr "Rodyti"
+
+msgid "Primary conditon:"
+msgstr "Pirminė sąlyga:"
+
+msgid "No conditions are set"
+msgstr "Kol kas sąlygos nenustatytos"
+
+msgid "Main options"
+msgstr "Pagrindiniai nustatymai"
+
+
+msgid "Deffault metafields"
+msgstr "Numatytieji laukeliai"
+
+msgid "System metafields"
+msgstr "Sisteminiai laukeliai"
+
+msgid "Provided in db table"
+msgstr "Numatyti db lentelėje"
+
+msgid "License active until"
+msgstr "Licencija galioja iki"
+
+msgid "License key expired!"
+msgstr "Licencijos galiojimo laikas baigėsi!"
+
+msgid "Order by"
+msgstr "Rūšiuoti pagal"
+
+msgid "Descending"
+msgstr "Mažėjančiai"
+
+msgid "Ascending"
+msgstr "Didėjančiai"
+
+msgid "Search where"
+msgstr "Kur ieškoti"
+
+msgid "Results order"
+msgstr "Rūšiavimo tvarka"
+
+msgid "How many requests show in one page"
+msgstr "Po kiek užklausų rodyti vienu metu puslapyje"
+
+msgid "Page"
+msgstr "Puslapis"
+
+msgid "Show filters"
+msgstr "Rodyti filtrus"
+
+msgid "Filters"
+msgstr "Filtrai"
+
+msgid "woocommerce_ordf For WooCommerce Plugin needs WooCommerce to be installed and active."
+msgstr "Turi būti suinstaliuotas woocommerce įskiepis, kad būtų galima įjungti įskiepį Woocommerce Order files"
+
+msgid "Woo order files"
+msgstr "Užsakymų failai"
+
+msgid "Files archived successfully!"
+msgstr "Failai buvo suarchyvuoti!"
+
+msgid "Order files"
+msgstr "Užsakymo failai"
+
+msgid "Upload new files"
+msgstr "Pridėti failų"
+
+msgid "Options page"
+msgstr "Nustatymai"
+
+msgid "Upload files"
+msgstr "Įkelti failus"
+
+msgid "Upload"
+msgstr "Įkelti"
+
+msgid "Order uploads"
+msgstr "Užsakymo failai"
+
+msgid "By type"
+msgstr "Pagal tipą"
+
+msgid "By service"
+msgstr "Pagal paslaugą"
+
+msgid "Service"
+msgstr "Paslauga"
+
+msgid "Assign customers for this order manager"
+msgstr "Priskirkite klientus šiam užsakymų tvarkytojui"
+
+msgid "Customers"
+msgstr "Klientai"
+
+msgid "Filter By Orders manager"
+msgstr "Filtruoti pagal užsakymų tvarkytoją"
+
+msgid "Photos"
+msgstr "Nuotraukos"
+
+msgid "360 / 3D photo"
+msgstr "360 / 3D nuotrauka"
+
+msgid "By order"
+msgstr "Pagal užsakymą"
+
+msgid "Drag &amp; Drop Files"
+msgstr "Vilkite ir meskite failus čia"
+
+msgid "Multiple File Drag &amp; Drop is not allowed."
+msgstr "Daugiau nei vieno failo užkrovimas negalimas."
+
+msgid "Attach files"
+msgstr "Priėti failą(-us)"
+
+msgid "Choose order to attach files"
+msgstr "Užsakymas kuriam norite priskirti failą(-us)"
+
+msgid "Choose upload type"
+msgstr "Pasirinkite failų tipą"
+
+msgid "Is this Premium?"
+msgstr "Ar paslauga yra Premium?"
+
+msgid "Premium product"
+msgstr "Premium paslauga"
+
+msgid "Choose purpose"
+msgstr "Pasirinkite paskirtį"
+
+msgid "Add label"
+msgstr "Pridėkite pavadinimą"
+
+msgid "Preview"
+msgstr "Peržiūrai"
+
+msgid "Not expires"
+msgstr "Neterminuotas"
+
+msgid "Expires"
+msgstr "Galiojimo terminas"
+
+msgid "Download"
+msgstr "Atsisiuntimui"
+
+msgid "Local"
+msgstr "Lokaliai"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Update"
+msgstr "Atnaujinti"
+
+msgid "Archyve files for upload"
+msgstr "Archyvuoti failus atsisiuntimui"
+
+msgid "Add local"
+msgstr "Pridėti lokaliai"
+
+msgid "Add files as url, from other server (cloud)"
+msgstr "Pridėti failų kaip url iš kito serverio (debesų)"
+
+msgid "Start upload"
+msgstr "Pradėti įkėlimą"
+
+msgid "File was attached successfully!"
+msgstr "Failas prie užsakymo buvo sėkmingai pridėtas!"
+
+msgid "file(-s) was attached successfully!"
+msgstr " failai(-as) buvo sėkmingai pridėti!"
+
+msgid "Add more files"
+msgstr "Pridėti daugiau failų"
+
+msgid "List of files"
+msgstr "Failų sąrašas"
+
+msgid "Download file"
+msgstr "Atsisiųsti"
+
+msgid "Updated"
+msgstr "Atnaujinta"
+
+msgid "Back to list"
+msgstr "Grįžti į sąrašą"
+
+msgid "Preview file"
+msgstr "Peržiūrėti"
+
+msgid "Order ID"
+msgstr "Užsakymo ID"
+
+msgid "order id"
+msgstr "užsakymo ID"
+
+msgid "Sorry, there is no results found"
+msgstr "Deja, duomenų nerasta"
+
+msgid "No files found."
+msgstr "Deja, failų nerasta."
+
+msgid "Files preview"
+msgstr "Failų peržiūra"
+
+msgid "If declared: slide_{index}.png and file names: slide_01.png ... slide_11.png - will not work"
+msgstr "Jei įvedėte: kadras_{index}.png ir failų pavadinimai: kadras_01.png ... kadras_11.png - blogai"
+
+msgid "If declared: slide_{index}.png and file names: slide_1.png ... slide_11.png - will work perfectly"
+msgstr "Jei įvedėte: kadras_{index}.png ir failų pavadinimai: kadras_1.png ... kadras_11.png - tuomet veiks teisingai"
+
+msgid "Add file name with frame index {index}"
+msgstr "Įveskite skaidrių pavadinimą su kadro indeksu {index}"
+
+msgid "slide_{index}.png"
+msgstr "kadras_{index}.png"
+
+msgid "New upload session"
+msgstr "Naujas failų įkėlimas"
+
+msgid "Choose files type"
+msgstr "Pasirinkite failų tipą"
+
+msgid "Order files plugin field"
+msgstr "Užsakymų failai įskiepio laukeliai"
+
+msgid "Folder is empty"
+msgstr "Katalogas tuščias"
+
+msgid "The folder"
+msgstr "Katalogo"
+
+msgid "Folder or file missing!"
+msgstr "Katalogas arba failas nerasti!"
+
+msgid "Some error occured!"
+msgstr "Deja, įvyko klaida!"
+
+msgid "Please enter future date!"
+msgstr "Prašome įvesti ateities datą!"
+
+msgid "Category was removed."
+msgstr "Kategorija buvo pašalinta."
+
+msgid "Remove the post and its associated files after the expiration date"
+msgstr "Pašalinti įrašą ir su juo susijusius failus po galiojimo laiko pabaigos"
+
+msgid "A category with that name already exists!"
+msgstr "Tokiu pavadinimu kategorija jau egzistuoja!"
+
+msgid "Expires date"
+msgstr "Data, iki kada laikyti failus serveryje"
+
+msgid "Remove file"
+msgstr "Šalinti failą"
+
+msgid "files"
+msgstr "failai"
+
+msgid "Upload record preview and edit"
+msgstr "Užsakymo atsisiuntimų įrašo peržiūra ir redagavimas"
+
+msgid "Full path: "
+msgstr "Pilnas kelias: "
+
+msgid "Folder"
+msgstr "Katalogas"
+
+msgid "An error occured, record was not found!"
+msgstr "Įvyko klaida, įrašas nerastas!"
+
+msgid "There you can add aditional files"
+msgstr "Čia galite įkelti papildomų failų"
+
+msgid "Replace files"
+msgstr "Atnaujinti failus"
+
+msgid "Edit file name"
+msgstr "Redaguoti failo pavadinimą"
+
+msgid "Preview files"
+msgstr "Peržiūrėti failus"
+
+msgid "Page for embeding"
+msgstr "Puslapis įterpimui"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "Products"
+msgstr "Produktai"
+
+msgid "User not rated this product yet."
+msgstr "Vartotojas kol kas dar neįvertino šio produkto."
+
+msgid "Product rating"
+msgstr "Produkto įvertinimas"
+
+msgid "Comment author"
+msgstr "Komentaro autorius"
+
+msgid "Not confirmed"
+msgstr "Nepatvirtinta"
+
+msgid "Products types"
+msgstr "Produktų tipai"
+
+msgid "Rate value"
+msgstr "Įvertinimas"
+
+msgid "After you upload new files, and make changes - comment and let user rate product again."
+msgstr "Kai padarysite pakeitimus / įkelsite naujus failus - parašykite pranešimą klientui ir leiskite jam iš naujo įvertinti produktą."
+
+msgid "Downloads"
+msgstr "Produkcija"
+
+msgid "Production"
+msgstr "Produkcija"
+
+msgid "Download files"
+msgstr "Atsisiųsti failus"
+
+msgid "Files are being archived, it may take some time, please wait."
+msgstr "Failai archyvuojami, tai gali užtrukti, prašome palaukti."
+
+msgid "You successfully rated product!"
+msgstr "Jūs sėkmingai įvertinote produktą!"
+
+msgid "Some error occured, please try later!"
+msgstr "Deja įvyko nenumatyta klaida, prašome bandyti vėliau!"
+
+msgid "Please enter the comment!"
+msgstr "Prašome įrašyti komentarą!"
+
+msgid "Not"
+msgstr "Ne"
+
+msgid "Embed"
+msgstr "Įterpti"
+
+msgid "Embed gallery"
+msgstr "Įterpti galetrją"
+
+msgid "Copy embed code"
+msgstr "Kopijuoti įterpimo kodą"
+
+msgid "Embed code was successfully copyed to your clipboard!"
+msgstr "Įterpimui skirtas kodas buvo sėkmingai nukopijuotas į iškarpų krepšelį!"
+
+msgid "Not link to any order/user"
+msgstr "Nepriskirti jokiam užsakymui/klientui"
+
+msgid "This record not assigned to any order."
+msgstr "Šis įrašas nepriskirtas jokiam užsakymui."
+
+msgid "Choose order to assign"
+msgstr "Pasirinkite užsakymą"
+
+msgid "Copyed!"
+msgstr "Nukopijuota!"
+
+msgid "Shortcode"
+msgstr "Trumpinys"
+
+msgid "Update options"
+msgstr "Atnaujinti parametrus"
+
+msgid "Configure 360 / 3D photos parameters parameters"
+msgstr "360 / 3D nuotraukų parametrai"
+
+msgid "Select 360 / 3D photo for testing"
+msgstr "Pasirinkite 360 / 3D nuotrauką testavimui"
+
+msgid "plugin options"
+msgstr "įskiepio nustatymai"
+
+msgid "Choose default 360 / 3D photos parameters"
+msgstr "Pasirinkite numatytuosius 360 / 3D nuotraukų parametrus"
+
+msgid "File format and name requirements."
+msgstr "Failų pavadinimų ir formatų reikalavimai."
+
+msgid "Filne name structure:"
+msgstr "Failo pavadinimo struktūra:"
+
+msgid "Mostly important seperator"
+msgstr "Svarbiausias yra skirtuko simbolis"
+
+msgid "between name ant frame"
+msgstr "tarp pavadinimo ir kadro numerio"
+
+msgid "Filne name with y axis structure:"
+msgstr "Failo pavadinimo su y ašimi struktūra:"
+
+msgid " (not required, can add later)"
+msgstr " (nebūtinas, galite nurodyti vėliau)"
+
+msgid "Download file url"
+msgstr "Failo parsisiuntimo URL"
+
+msgid "Use"
+msgstr "Naudoti"
+
+msgid "You are currently viewing"
+msgstr "Jūs šiuo metu peržiūrite"
+
+msgid "videos"
+msgstr "video"
+
+
+msgid "Previos video"
+msgstr "Ankstesnis video"
+
+
+msgid "Next video"
+msgstr "Sekantis video"
